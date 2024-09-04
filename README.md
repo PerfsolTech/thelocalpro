@@ -6,7 +6,7 @@ TheLocalPro.com is a platform designed to help users find professionals in their
 
 Frontend: ⚡️ pixel-perfect UI on React with TypeScript, styled components.
 
-Backend: 🪨 PHP/Laravel, MongoDB to support the platform's functionality.
+Backend: 🪨 NodeJS, MongoDB to support the platform's functionality.
 
 Key features:
 
